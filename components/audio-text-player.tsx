@@ -74,7 +74,7 @@ Tú siempre tan tierna, tan cuidada, me duele mucho salir del gimnasio y ver que
 
 El día de hoy busca una excusa, por favor, cualquiera y ven hacia a mí, corre a mis brazos diciéndome que quieres pasar conmigo tu navidad, que me quieres besar a media noche busca cualquier excusa, que mañana es el último día para hacer eso, me dolerá en el alma pero yo no lo haré, no te escribiré, aunque muera por hacerlo no lo haré…estoy muy agotado mi kelly, estoy muy cansado, yo te busco tanto y tú no me buscas, en mi mente está la idea de siempre buscarte, de siempre escribirte pero no puedo hacerlo si tú no quieres que lo haga, si tú ni lo haces, me estoy agotando poco a poco mi reina, te necesito, donde estás? Donde nos encontramos? Me haces tanta falta
 `,
-    audioUrl: "/Adios/audio/sinomefallaelcorazon.mp3",
+    audioUrl: "/Adios/audio/sino.mp3",
     bgColor: "from-indigo-500/10 to-purple-500/10",
   },
   {
