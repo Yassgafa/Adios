@@ -1,7 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   output: 'export',
-  basePath: process.env.NODE_ENV === 'production' ? '/nombre-de-tu-repo' : '',
+  basePath: process.env.NODE_ENV === 'production' ? '/Adios' : '',
   typescript: {
     ignoreBuildErrors: true,
   },
