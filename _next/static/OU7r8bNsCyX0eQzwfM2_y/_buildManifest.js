@@ -3,8 +3,8 @@ self.__BUILD_MANIFEST = {
     "afterFiles": [],
     "beforeFiles": [
       {
-        "source": "/automatic-photo-banner//_next/:path+",
-        "destination": "/automatic-photo-banner/_next/:path+"
+        "source": "/Adios//_next/:path+",
+        "destination": "/Adios/_next/:path+"
       }
     ],
     "fallback": []
