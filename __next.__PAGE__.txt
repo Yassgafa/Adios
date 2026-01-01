@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
-2:I[59249,["/_next/static/chunks/0c6932420e96e619.js","/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/0ca2dd9ba7790208.js"],"PhotoBanner"]
-3:I[7971,["/_next/static/chunks/0c6932420e96e619.js","/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/0ca2dd9ba7790208.js"],"AudioTextPlayer"]
-4:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"OutletBoundary"]
+2:I[59249,["/automatic-photo-banner/_next/static/chunks/0c6932420e96e619.js","/automatic-photo-banner/_next/static/chunks/ff1a16fafef87110.js","/automatic-photo-banner/_next/static/chunks/c1b657481330b583.js"],"PhotoBanner"]
+3:I[7971,["/automatic-photo-banner/_next/static/chunks/0c6932420e96e619.js","/automatic-photo-banner/_next/static/chunks/ff1a16fafef87110.js","/automatic-photo-banner/_next/static/chunks/c1b657481330b583.js"],"AudioTextPlayer"]
+4:I[97367,["/automatic-photo-banner/_next/static/chunks/ff1a16fafef87110.js","/automatic-photo-banner/_next/static/chunks/247eb132b7f7b574.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-0:{"buildId":"0GUugHd30votpmjmBer1R","rsc":["$","$1","c",{"children":[["$","main",null,{"className":"min-h-screen","children":[["$","$L2",null,{}],["$","$L3",null,{}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/ff1a16fafef87110.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/0ca2dd9ba7790208.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"6GIiKx1rYziPu2gyPfaEl","rsc":["$","$1","c",{"children":[["$","main",null,{"className":"min-h-screen","children":[["$","$L2",null,{}],["$","$L3",null,{}]]}],[["$","script","script-0",{"src":"/automatic-photo-banner/_next/static/chunks/ff1a16fafef87110.js","async":true}],["$","script","script-1",{"src":"/automatic-photo-banner/_next/static/chunks/c1b657481330b583.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
 6:null
