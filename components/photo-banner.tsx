@@ -6,11 +6,11 @@ import Image from "next/image"
 const photos = [
   
    {
-    url: "/Adios/image/kelly 6.jpeg",
+    url: "/Adios/images/kelly6.jpeg",
     alt: "kelly 6",
   },
     {
-    url: "/Adios/image/kelly 10.jpeg",
+    url: "/Adios/images/kelly10.jpeg",
     alt: "kelly 10",
   },
   
